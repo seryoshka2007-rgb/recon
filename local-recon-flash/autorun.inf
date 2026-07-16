@@ -1,0 +1,5 @@
+[AutoRun]
+label=Local Recon Suite
+icon=icon.ico
+action=Run Local Recon Suite
+open=START_HERE.bat
